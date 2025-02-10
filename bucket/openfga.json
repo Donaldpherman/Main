@@ -1,20 +1,20 @@
 {
-    "version": "0.2.5",
+    "version": "0.6.4",
     "description": "Relationship-based access control made fast, scalable, and easy to use",
     "homepage": "https://openfga.dev",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/openfga/cli/releases/download/v0.2.5/fga_0.2.5_windows_amd64.tar.gz",
-            "hash": "e445ffc7c9463a5a493cd6d1c5519efe04ba688dd40a06c648d17a36c9d0ac55"
+            "url": "https://github.com/openfga/cli/releases/download/v0.6.4/fga_0.6.4_windows_amd64.tar.gz",
+            "hash": "3f411a7aa28c7d0f31a9395122bda686d72c620490f1b1d8600a7769e205203f"
         },
         "32bit": {
-            "url": "https://github.com/openfga/cli/releases/download/v0.2.5/fga_0.2.5_windows_386.tar.gz",
-            "hash": "c0111f44ec83568387343e1443bd43e6fbaeaaa79edff518766af7fe0a0e4b50"
+            "url": "https://github.com/openfga/cli/releases/download/v0.6.4/fga_0.6.4_windows_386.tar.gz",
+            "hash": "6149c5a72aa3932ab51352a77155d5184275bf598c5329bd1300798d2de7d9f5"
         },
         "arm64": {
-            "url": "https://github.com/openfga/cli/releases/download/v0.2.5/fga_0.2.5_windows_arm64.tar.gz",
-            "hash": "c789aa4ddee1effe977f1c4ee150e6c99135a38a90ae63d98899457ee06e195a"
+            "url": "https://github.com/openfga/cli/releases/download/v0.6.4/fga_0.6.4_windows_arm64.tar.gz",
+            "hash": "51542bcb546a0a3f04b6718da796836b7bf2145abf4522e7c4d2e08af55021ff"
         }
     },
     "bin": "fga.exe",

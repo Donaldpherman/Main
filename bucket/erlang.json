@@ -1,26 +1,26 @@
 {
-    "version": "26.2.2",
+    "version": "27.2.2",
     "description": "A programming language used to build massively scalable soft real-time systems with requirements on high availability.",
     "homepage": "https://www.erlang.org",
     "license": "Apache-2.0",
     "suggest": {
-        "vcredist": "extras/vcredist2013"
+        "vcredist": "extras/vcredist2022"
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/erlang/otp/releases/download/OTP-26.2.2/otp_win64_26.2.2.exe#/dl.7z",
-            "hash": "64397ff61e25f184bbca438df3f72ebed15b54631900e19bf2bb295ea2a5e0da"
+            "url": "https://github.com/erlang/otp/releases/download/OTP-27.2.2/otp_win64_27.2.2.exe#/dl.7z",
+            "hash": "4dfe98fa8fd2fd7ff0361972a1ca2ff0981b2b30a8c9f80d19c457837a8f4703"
         },
         "32bit": {
-            "url": "https://github.com/erlang/otp/releases/download/OTP-26.2.2/otp_win32_26.2.2.exe#/dl.7z",
-            "hash": "e5bbb423e4c894b1d520d3c4357baa2732e4a1613cb888f6f6fc986b16423cf6"
+            "url": "https://github.com/erlang/otp/releases/download/OTP-27.2.2/otp_win32_27.2.2.exe#/dl.7z",
+            "hash": "efbea66a16e6e5266d707f35eb86f999eed0ce3249db53877a948f664e049fc6"
         }
     },
     "installer": {
         "file": "Install.exe",
         "args": "-sasl"
     },
-    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\Uninstall.exe.nsis\", \"$dir\\vcredist*\" -Force -Recurse",
+    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\vcredist*\" -Force -Recurse",
     "bin": [
         "bin\\erl.exe",
         "bin\\erlc.exe",
