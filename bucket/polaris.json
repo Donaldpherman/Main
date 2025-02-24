@@ -1,12 +1,12 @@
 {
-    "version": "0.14.1",
+    "version": "0.15.0",
     "description": "A music streaming application",
     "homepage": "https://github.com/agersant/polaris",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/agersant/polaris/releases/download/0.14.1/Polaris_0.14.1.msi",
-            "hash": "40f9f883362a164306053956146a2e6cbc13fe896eb14d62ca7841f24d6955ca"
+            "url": "https://github.com/agersant/polaris/releases/download/0.15.0/Polaris_0.15.0.msi",
+            "hash": "8adf1743bbb598e2b9cdb380160506d68da2be53efd6007e0c1a17de2288cb23"
         }
     },
     "extract_dir": "Permafrost\\Polaris",

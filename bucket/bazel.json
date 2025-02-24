@@ -1,5 +1,5 @@
 {
-    "version": "7.0.2",
+    "version": "8.1.0",
     "description": "A fast, scalable, multi-language and extensible build system",
     "homepage": "https://bazel.build",
     "license": "Apache-2.0",
@@ -10,8 +10,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bazelbuild/bazel/releases/download/7.0.2/bazel-7.0.2-windows-x86_64.zip",
-            "hash": "8805ade79cbb7c17e2d095ee1f26be64769dd5403a14b84dff13ae8cac626fe9"
+            "url": "https://github.com/bazelbuild/bazel/releases/download/8.1.0/bazel-8.1.0-windows-x86_64.zip",
+            "hash": "151a00dcaff76720459249ad02f13e84da63b757888dd10d6115112007f66608"
         }
     },
     "bin": "bazel.exe",

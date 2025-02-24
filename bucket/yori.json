@@ -1,39 +1,39 @@
 {
-    "version": "2.10",
+    "version": "2.40",
     "description": "CMD replacement shell that supports backquotes, job control, improves tab completion, file matching, aliases, command history, and more.",
     "homepage": "http://www.malsmith.net/yori/",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": [
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-ypm-amd64.cab#/ypm.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-core-amd64.cab#/core.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-typical-amd64.cab#/typical.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-extra-amd64.cab#/extra.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-completion-noarch.cab#/completion.7z"
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-ypm-amd64.cab#/ypm.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-core-amd64.cab#/core.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-typical-amd64.cab#/typical.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-extra-amd64.cab#/extra.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-completion-noarch.cab#/completion.7z"
             ],
             "hash": [
-                "090f6fab9ce02b064dcca71dca328794b9c783d63136653fcad9bed5d7582acd",
-                "73d7b4a21c711afabc6626c9c7bf94dcb73c9dcf415b04b308826ac907c5b906",
-                "0fa502759fa3713fcfaa404918ef7b9eaf571b4d4606fa8e6894f48caa4a8af2",
-                "211db370905c7cbda8d48035dcda3c1e172f22537a60fd0b2d34fe77775aa425",
-                "6eb82c08c3986ffacfa9997aaf5ecd8d035015dd39f41007cd335eb84b84458a"
+                "288390a33099fc98cb31ec8ed3fdcfe90f428949cec1327045b6681eb03d6899",
+                "85a30a6fdcef2684ef145d1e01093337f6b67882a3e3a2a0cf3b590bf3ba85e3",
+                "5c7e801bf36b761c72bc48a6bcb7fc25bbc64188943ed5a1c1472a309b436ce3",
+                "8b8c7d1e51d596848049bbc1df79c1a2da0f9b9bcb45f4e0c33cbc2da8cdafc7",
+                "20bbfabe29d4849ee91869c638e7ad8dbe71f5133fc229ab55b94867efa0138e"
             ]
         },
         "32bit": {
             "url": [
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-ypm-win32.cab#/ypm.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-core-win32.cab#/core.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-typical-win32.cab#/typical.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-extra-win32.cab#/extra.7z",
-                "http://www.malsmith.net/download/?obj=yori/2.10/yori-completion-noarch.cab#/completion.7z"
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-ypm-win32.cab#/ypm.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-core-win32.cab#/core.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-typical-win32.cab#/typical.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-extra-win32.cab#/extra.7z",
+                "http://www.malsmith.net/download/?obj=yori/2.40/yori-completion-noarch.cab#/completion.7z"
             ],
             "hash": [
-                "3d3c99e169b72f4341186486069f632152b4fa588e573b33d31f43add8321b86",
-                "3fe8cfe5f2d8475ca51a097d55137385f82039c9227d732fe54aa3ffafaee1aa",
-                "ca3571d626c29f7fd153b5f4981e994e8c63d61a37c46f26635c9db8781c9d83",
-                "3bdcdda51bd3c70185570a667a4fbaedadde6d3343fc5bce6d5b05405e77e690",
-                "6eb82c08c3986ffacfa9997aaf5ecd8d035015dd39f41007cd335eb84b84458a"
+                "f023bd4f53bc7f806517fad790d68f19dc5a741b73a981a7c7a2cb6ca8d89bb4",
+                "d33300d88ffe1ffb56daba7ab7d9eb36af48378fee4374e76a1cd269f049a31f",
+                "854b41966baa2679ce14481a2dd8b9558ea60cbbdce8a80d09f9c458103089da",
+                "effa043a57f3bee0708eed220b57808bb4f2d7b55ab2bee4a74dc593002d3f01",
+                "20bbfabe29d4849ee91869c638e7ad8dbe71f5133fc229ab55b94867efa0138e"
             ]
         }
     },

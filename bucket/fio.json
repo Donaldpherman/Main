@@ -1,16 +1,16 @@
 {
-    "version": "3.36",
+    "version": "3.39",
     "description": "Flexible I/O Tester",
     "homepage": "https://github.com/axboe/fio",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/axboe/fio/releases/download/fio-3.36/fio-3.36-x64.msi",
-            "hash": "951e9f2cb88a5eb2e672388d5472f5b8c43ae08309ad7bb290a47bf62c0fe75f"
+            "url": "https://github.com/axboe/fio/releases/download/fio-3.39/fio-3.39-x64.msi",
+            "hash": "49be53fb6b9517ce4fc5e26136d7c981df84daa31dd50db66ac3bbb5cb7be63a"
         },
         "32bit": {
-            "url": "https://github.com/axboe/fio/releases/download/fio-3.36/fio-3.36-x86.msi",
-            "hash": "e37e06caa560ecc19283b7725183233bd5375d978cb65e975e8ba6648f0715f5"
+            "url": "https://github.com/axboe/fio/releases/download/fio-3.39/fio-3.39-x86.msi",
+            "hash": "d5750ba11b13b13301ef476cd290dac6a751dbedfe7ffcada5a20285b84a1d1c"
         }
     },
     "extract_dir": "fio",
